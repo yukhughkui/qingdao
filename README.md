@@ -67,10 +67,10 @@
 4. 选择存放文件的分支，例如 `main`；目录选择 **`/ (root)`**，点击 **Save**。
 5. 等待部署完成，使用 Pages 页面显示的站点地址访问和分享。
 
-普通项目仓库的地址通常采用下面的形式。这里是格式示例，不是已部署的实际链接：
+链接：
 
 ```text
-https://你的用户名.github.io/仓库名/
+https://yukhughkui.github.io/qingdao/
 ```
 
 `index.html` 是网站默认首页；`README.md` 用于仓库说明，不能替代首页。GitHub 仓库内点击 HTML 文件通常显示源码，体验网站应打开 Pages 站点地址。
